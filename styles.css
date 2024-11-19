@@ -76,7 +76,7 @@ nav a:hover{
     text-shadow:   1px 1px 1px #FF00FF;
 }
 
-/* Servicios */
+/* Servicios containers e imagenes */
 .services-container {
     display: flex;
     justify-content: space-around;
@@ -197,7 +197,7 @@ footer {
     color: #FF00FF;
 }
 
-/* animaciones de imagen en rotacion */
+/* animaciones de imagen en rotacion del telefono */
 .telefono img{
     width: 100px;
     height: 100px;
